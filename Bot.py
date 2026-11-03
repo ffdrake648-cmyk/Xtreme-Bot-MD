@@ -1,1 +1,6 @@
-From telegram import Update 
+FromtelegramimportUpdate 
+FromtelegramimportapplicationandcommandhandlerContaxttypes
+FromimportUpdate
+FromtelegramextimportapplicationcommandhandlerContextTypes
+Asyinc def start (updatecontext),open parentheses
+Await update.message.reply text (hello)
